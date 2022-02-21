@@ -46,6 +46,7 @@ In this section, you will create a smart contract that defines KaseiCoin as an E
 7. Check for any errors and debug as needed.
 
 8. Take a screenshot of the successful compilation of the contract, and add it to the Evaluation Evidence section of the `README.md` file for your Challenge repository.
+![Compiled Kasei Coin Contract](https://user-images.githubusercontent.com/71357748/154875255-3b3801dc-f6f5-4570-b8f3-a317b9129f1e.JPG)
 
 #### Create the KaseiCoin Crowdsale Contract
 
@@ -66,6 +67,7 @@ In this section, you will define the KaseiCoin crowdsale contract. To do so, com
 5. Check for any errors and debug as needed.
 
 6. Take a screenshot of the successful compilation of the contract, and add it to the Evaluation Evidence section of the `README.md` file for your Challenge repository.
+![Compiled Kasei Crowdsale Contract](https://user-images.githubusercontent.com/71357748/154875268-19253de7-3932-4009-ac1f-0b72e1d839e3.JPG)
 
 #### Create the KaseiCoin Deployer Contract
 
